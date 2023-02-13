@@ -7,3 +7,7 @@ This repository is built step by step in the tutorial.
 bu bi yarrak degildir
 
 bu bir yarraktir
+
+asdasds testbranchi
+
+updated brachi
